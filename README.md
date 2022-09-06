@@ -26,8 +26,8 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
-![ExpressJS](https://img.shields.io/badge/ExpressJS-Latest-blue)&nbsp;
-![ReactJS](https://img.shields.io/badge/React-18-red)&nbsp;
+![ExpressJS](https://img.shields.io/badge/-ExpressJS-05122A?style=flat)&nbsp;
+![ReactJS](https://img.shields.io/badge/-React-05122A?style=flat)&nbsp;
 
 
 ### :link: &nbsp;Connect with me
