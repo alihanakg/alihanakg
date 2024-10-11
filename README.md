@@ -6,10 +6,10 @@
 <p align="center" width="150px"> I started my developer carreer in early 2019,. <br>I never went school or course when learning languages, learnt them by myself with Youtube videos and so many draft projects.</p>
 
 <p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/neenhila/count.svg" alt="visitor badge"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neenhila&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=neenhila&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=neenhila&theme=chartreuse-dark"></p>
+<p align="center"><img src="https://profile-counter.glitch.me/alihanakg/count.svg" alt="visitor badge"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihanakg&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=alihanakg&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=alihanakg&theme=chartreuse-dark"></p>
 
 ### 🛠 &nbsp;Tech Stack
 
