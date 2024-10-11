@@ -33,10 +33,8 @@
 ### :link: &nbsp;Connect with me
 
 <p align="center">
-<a href="https://neenhila.online"><img src="https://img.shields.io/badge/Neenhila-Online-green?logo=Google-Chrome&style=for-the-badge"/></a>
-<a href="mailto:neenhila@gmail.com"><img src="https://img.shields.io/badge/-neenhila@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/neenhila"><img src="https://img.shields.io/badge/-neenhila-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.com/neenhila"><img src="https://img.shields.io/badge/-neenhila-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://alihanakg.com"><img src="https://img.shields.io/badge/alihanakg-com-green?logo=Google-Chrome&style=for-the-badge"/></a>
+<a href="mailto:alhnakg@gmail.com"><img src="https://img.shields.io/badge/-alhnakg@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
 
 ---
